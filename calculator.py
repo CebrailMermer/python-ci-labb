@@ -9,4 +9,3 @@ def divide(a, b):
     if b == 0:
         raise ValueError("Division by zero!")
     return a/b
-# TODO: implement a divide() function later
